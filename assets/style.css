@@ -1,0 +1,39 @@
+
+h1 {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+#gameboard {
+    background-color: gray;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.img-fluid {
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+p {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 1rem;
+}
+
+#quote {
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+    color: blue; 
+    margin: 10px;
+    padding: 10px;
+}
